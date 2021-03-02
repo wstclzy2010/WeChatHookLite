@@ -13,4 +13,7 @@ WeChatHookLite这个名字来源于WeChatHookPro，算是致敬改该插件的�
 
 我敬佩能以爱好当饭吃的人。
 
-## 结构
+## 截图
+
+![Alt text](https://github.com/wstclzy2010/WeChatHookLite/blob/main/IMG_0368(20210302-130805).JPEG)
+![Alt text](https://github.com/wstclzy2010/WeChatHookLite/blob/main/IMG_0369(20210302-130816).JPEG)
